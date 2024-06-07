@@ -1,0 +1,14 @@
+{
+  "name": "siymas620_groupa_siyabonga-masenya_sdf09",
+  "version": "1.0.0",
+  "description": "Create a responsive footer for a website using Tailwind CSS. This project aims to enhance your CSS skills, focusing on responsive design and the utility-first approach of Tailwind CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
